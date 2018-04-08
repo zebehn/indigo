@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Minsu Jang
+bio: A Hollow Man
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A Project Description
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,11 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://zebehn.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
